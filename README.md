@@ -8,3 +8,7 @@ Hosted Link:https://ankitkumar1303.github.io/Assignment-3/
 UI:
 
 <img width="1440" alt="Screenshot 2023-08-28 at 5 06 24 PM" src="https://github.com/AnkitKumar1303/Assignment-3/assets/42855900/01859f7d-98bc-4485-b889-070295658ac6">
+
+EXPLANATION:
+
+<img width="646" alt="Screenshot 2023-08-29 at 3 17 40 PM" src="https://github.com/AnkitKumar1303/Assignment-3/assets/42855900/e4dab3a8-390e-400a-a27b-09854ff4ee79">
